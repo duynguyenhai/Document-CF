@@ -1,0 +1,279 @@
+﻿tooltip
+	WP Lightbox 2:	tooltip ảnh
+
+Login
+	Login LockDown:
+	
+Form contact
+	Contact Form 7 : làm form liên hệ														ok
+
+Anti Spam
+	Akismet	:	Chống spam comment
+	
+Bài viết
+		Yet Another Related Posts Plugin:	Bài viết liên quan
+
+Cache
+	WP Super Cache:	cache bài viết															ok
+	
+Link
+	WP External Links:			kiểm soát link đổ ra ngoài									ok
+	
+mang xa hoi
+	Flat Floating Social Bar:	trôi														ok
+	Floating Social Bar:		like trong bai viet	cố định									ok
+	Sharebar:					like trong bai viet trôi									ok
+	Digg Digg
+	
+tìm kiếm
+	WP Custom Search:			tìm nâng cao												ok
+	
+slide
+	http://lamsaogio.com/2014/04/10-plugin-wordpress-mien-phi-tao-slider.html
+	http://ebooksvn.com/wordpress/wordpress-plugins/top-17-plugins-tao-slider-tot-nhat-cho-blog-wordpress.html
+
+	Meta Slider					biểu diễn ảnh												ok
+	Cyclone Slider 2			biểu diễn ảnh(resize, rất hay)								ok
+	Photo Gallery				Làm trang thư viện ảnh(hay)									ok
+	
+zoom ảnh
+	Magic Zoom:	zoom ảnh phóng to ra 1 vùng nhìn(thêm class="magiczoom" vào thẻ <img>)		ok
+	
+phân trang
+	WP-PageNavi:	phân trang
+	
+khác
+	http://blog.vuikhoe.net/web/wordpress/plugin-web/cac-plugin-can-cho-wordpress/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//-----------------------------------------------------------------------------------------------------------------
+	
+	Akismet				:	Có thể nói, đây là plugin khá quan trọng, bản cài đặt của WordPress đã tích hợp sẵn nó trong thư mục plugins, bạn chỉ cần vào trình điều khiển và kích hoạt plugin này.
+							Mục đích của Akismet là giúp blog của bạn giảm thiểu những bình luận SPAM. Những bình luận mà người dùng cố tình gửi để quảng cáo sẽ được cho vào danh sách spam.
+
+	WordPress SEO by Yoast	: là một trong số những plugin hỗ trợ SEO miễn phí tốt nhất hiện nay. Nó có thể đánh giá khả năng SEO cho bài viết của bạn, hỗ trợ những chức năng liên quan đến SEO như xây dựng breadcrumb, tạo sitemap và nhiều nhiều thứ khác.
+
+	Google XML Sitemaps		: là plugin cho phép bạn tạo ra một tập tin xml bao gồm tất cả các link trên blog của bạn mà người ta hay gọi là sitemap. Khi bạn thêm tập tin này vào các cộng cụ quản lý của trình tìm kiếm thì bài viết của bạn sẽ được cập nhật nhanh hơn, thời gian hiển thị bài viết trong kết quả tìm kiếm sẽ được rút ngắn.
+
+	Yet Another Related Posts	: Plugin là plugin cho phép hiển thị những bài viết liên quan đến nội dung bài viết bạn đang xem hiện tại. Plugin này sẽ làm cho thời gian của người đọc trên trang của bạn được lâu hơn bởi người dùng thường thích đọc thêm những bài viết liên quan đến nội dung họ đang xem.
+
+	WP Super Cache	: là plugin tạo cache cho trang web của bạn, nhờ plugin này mà nội dung của bạn sẽ được hiển thị nhanh hơn bình thường, thời gian tải trang nhanh sẽ giúp cho trang của bạn được đánh giá cao đối với các công cụ tìm kiếm.
+
+	WP External Links:	là plguin cho phép bạn quản lý các đường dẫn trỏ ra bên ngoài trang của bạn. Bạn có thể chọn để thêm những hình ảnh đặt biệt vào trước những link này hoặc có thể cho tất cả các link được mở trên tab mới hoặc có thể cho thuộc tính nofollow để các công cụ tìm kiếm không xem qua các link này, giúp thời gian đọc trang của bạn được cải thiện.
+	
+	//------------------------------------------------------------------------------------------------------------------
+	
+	1. Các Plugin giúp dễ dàng điều hướng bài viết
+
+	Related Posts – Tạo một danh sách các bài viết có liên quan hoặc có cùng chủ đề với bạn bạn đang viết. Plugin này giúp tăng lượng pageview vì nó đưa các thông tin có liên quan đến bài hiện tại.
+
+	WP-PageNavi – Chèn thêm một thanh điều hướng trang cho WordPress. Plugin này rất hữu ích để di chuyển quan lại giữa các trang và các category.
+
+	Evermore – Làm ngắn lại các bài viết khi xem ở chế độ nhiều trang. Nó hữu ích trong việc tạo một bảng tóm tắt các bài viết.
+
+	Random Redirect – Cho phép bạn tạo một liên kết đến một bài viết bất kì trên blog.
+
+	Lightbox JS Plugin – Thường dùng để tạo một popup cho các ảnh trong bài viết giúp ảnh hiển thị chi tiết và rõ hơn.
+
+	WordPress Mobile Edition – Hiển thị một giao diện được thiết cho dành riêng cho các thiết bị di động nếu như người dùng đọc blog của họ trên các thiết bị di động.
+
+	Popularity Contest – Đếm số lượng view của các bài viết, các category, comment và sử dụng số liệu đó để quyết định bài viết nào được xem nhiều nhất.
+
+	Extended Live Archive – Bổ xung cách viết bài động bằng AJAXified trên digg vào các bài viết.
+
+	Landing Sites – khi các bộ máy tìm kiếm đưa khách xem đến với blog của bạn, nó sẽ hiển thị các bài mà người này đã xem trên blog của bạn.
+
+	Clean Archives – Được thiết kế để hiện thị danh sách các bài viết cũ theo một cách sáng sủa dễ nhìn. Nó liệt kê các bài viết theo ngày, theo tháng, theo năm,…và số lượng các comment hiện có trên các bài viết đó.
+
+	Custom Query String – Chỉnh số bài viết sẽ hiển thị trên mỗi trang.
+
+	Feed List – Rất hữu ích khi thêm các RSS feed vào blog của bạn.
+
+	Sidebar Widgets – Nó cho phép bạn di chuyển các widget trong sidebar.
+
+	KB Advanced RSS Widget – Một wordpress widget cho phép bạn toàn quyền điều khiển các RSS feed theo từng chủ đề trên sidebar.
+
+	Category Cloud Widget – Thêm một sidebar widget để hiển thị các category dưới dạng các tag.
+
+	Adhesive – Cho phép bạn đặt một hoặc các bài viết mà bạn muốn luôn hiển thị ở trên cùng dù có bài viết mới được đăng
+
+	2. Các Plugin giúp tăng tính tương tác cho các bài viết trên WordPress
+
+	Share This – Cho phép người đọc thêm bài viết của bạn vào các site bookmark xã hội của họ, hoặc là gửi link đó cho bạn của họ qua email.
+
+	Digg this – Phát hiện các liên kết đến bài viết của bạn từ Digg.com và tự động hiển thị một link ngược trở lại bài viết trên digg để mọi người có thể digg bài viết của bạn. 
+
+	Delicious Cached++ – Tạo một danh sách các bookmark mới nhất ở tài khoản Del.icio.us từ các feed và lưu feed trong database.
+
+	WP-Notable – Hiển thị một loạt các biểu tượng bên dưới mỗi bài viết, cho phép người đọc dễ dàng đăng kí vào nhiều dịch vụ mạng và bookmark xã hội khác.
+
+	WP-Email – Cho phép mọi người gửi bài viết trên blog của bạn tới bạn bè của họ.
+
+	WP-PostRatings – Thêm một hệ thống đánh giá sử dụng AJAX vào các bài viết hoặc các trang trên blog của bạn
+
+	EasyTube – Cho phép bạn dễ dàng chèn Youtube và Google Video vào bài viết bằng một tag đơn giản.
+
+	Twitter Updater – Tự động gửi một thông báo về trang thái của bài viết đến những người đã đăng ký khi bạn chỉnh sửa, viết hay đăng bài viết trên blog WordPress
+
+	3. Các Plugin giúp quản lý comment trên WordPress
+
+	Subscribe To Comments – Cho phép người dùng nhận thông báo về những comment mới trên mỗi bài viết.
+
+	WP AJAX Edit Comments – Cho phép người đọc và admin chỉnh sửa các comment ngay tại chỗ sử dụng bằng việc sử dụng AJAX.
+
+	Get Recent Comments – Hiển thị một đoạn trích của các comment mới nhất hoặc của các trackback được post trên các bài viết trên blog của bạn.
+
+	Close Old Posts – Đóng các comment ở các bài viết cũ mà không cần truy vấn cơ sở dữ liệu
+
+	WP Grins – Cho phép hiển thị các biểu tượng mặt cười để người dùng click vào và chèn vào bài viết hoặc comment
+
+	WordPress Paged Comments – Cho phép viết comment trên các trang. Rất hữu ích cho các blog có nhiều comment.
+
+	Live Comment Preview – Cho phép xem qua comment trên.
+
+	Show Top Commentators – Khuyến khích thêm thảo luận trên blog của bạn bằng việc hiển thị tên và số comment mà họ đã viết gần đây ở trên sidebar
+
+	WordPress Gravatar Plugin – Hiển thị Gravatar bằng chính email của người viết.
+
+	MyAvatars – Hiển thị avatar của Mybloglog trên comment.
+
+	Comment Relish – Gửi email cảm ơn tới những người lần đầu tiên viết comment trên blog.
+
+	Favatars – Hiển thị favicon có liên quan đến website của người viết comment
+
+	Brian’s Threaded Comments – Thêm một link “trả lời cho comment này” vào bên dưới mỗi comment. Nó giúp mọi người dễ dàng trả lời và theo dõi các câu hỏi của họ.
+
+	Dofollow – Cho phép bạn bỏ các câu lệnh nofollow để hạn chế các bộ máy tìm kiếm đọc nội dung comment.
+
+	OpenID Comments for WordPress – Cho phép tất cả người dùng viết comment bằng cách sử dụng OpenID.
+
+	Extended Comment Options – Cho phép bạn chuyển qua lại giữa các comment và tắt hoặc bật ping cho các bài viết
+
+	4. Các Plugin giúp chặn spam trên blog trên WordPress
+
+	Akismet – Đây là plugin chặn các comment spam rất thông minh.
+
+	Spam Karma 2 (SK2) – Là một anti-spam plugin cho WordPress, có tác dụng chặn tất cả các hình thức spam tự động.
+
+	Bad Behavior – Là một bộ PHP scripts giúp bảo vệ spambots không truy cập blog của bạn bằng cách phân tích các truy vấn HTTP và so sánh chúng với profile của những spambot đã tồn tại.
+
+	Math comment spam protection – Thêm các câu hỏi toán học vào các mẫu comment để chặn các spambot.
+
+	WP-Contact Form with Spam Protection – Tạo một contact form trên blog của bạn, qua đó, người đọc có thể dễ dàng liên hệ với bạn.
+
+	5. Các Plugin chuyên về SEO cho WordPress
+
+	Google XML Sitemaps – Tạo một sitemap cho tất cả các bài viết trên blog WordPress của bạn. Giúp Google và các bộ máy tìm kiếm khác đánh chỉ mục cho từng viết.
+
+	Permalink Redirect – Trả lời cho lệnh chuyển tiếp 301 nếu như URI được yêu cầu khác với parmalink của bài viết. Nó giúp đảm bảo rằng mỗi bài viết chỉ có một URL duy nhất.
+
+	All in One SEO Pack – Giúp tối ưu hóa blog WordPress của bạn cho các bộ máy tìm kiếm.
+
+	Head META Description – Chèn thẻ HTML META description bằng việc sử dụng một đoạn trích của bài viết.
+
+	SEO Title Tag – Tối ưu hóa thẻ tiêu đề của WordPress cho các bộ máy tìm kiếm. Chỉnh sửa toàn bộ thẻ tiêu đề của bài viết, của trang, của category và tag của các trang,…
+
+	Enforce www. Preference – Giúp bảo bệ parmentlink của bạn có www hoặc không có www, và đồng thời chuyển index.php phía sau của URL.
+
+	Optimal Title – cho phép bạn chuyển tên của blog ra phía sau tiêu đề của trang và các bài viết thay vì hiển thị ở đầu như mặc định.
+
+	Quick META Keywords – Tự động chèn các thẻ META Keywords vào từng bài viết trên các categories.
+
+	6. Các Plugin giúp tăng chức năng quản lý Admin WordPress
+
+	WordPress Database Backup – Giúp sao lưu cơ sở dữ liệu cho blog WordPress của bạn theo nhu cầu.
+
+	WP-cache – Một module có cache rất nhanh.
+
+	WP-Supercache – Là một plugin được sửa đổi từ WP-Cache để tạo các file HTML.
+
+	Batch Categories – Giúp dễ dàng quản lý toàn bộ các chủ đề của các bài viết theo một yêu cầu nào đó.
+
+	PodPress – Thêm rất nhiều các chức năng được thiết để làm cho WordPress trở nên thành một platform lý tưởng cho việc lưu trữ các postcast.
+
+	TinyMCE Advanced – Đây là bộ soản thảo WYSIWYS của WordPress, so với bộ TinyMCE thì bộ này có thêm 16 plugin, có thêm 40 nút mới vào thanh công cụ.
+
+	Exec-PHP – cho phép thực thi PHP trong nội dung hoặc đoạn trích của các bài viết. Khi đó, các bài viết hoặc các trang trên blog của bạn giống như các file PHP thông thường.
+
+	WordPress Reporter – Cho phép bạn dễ dàng hiển thị thống kê báo cáo về Google Analytics và Feedburner trong khu vực quản lý WordPress của bạn.
+
+	WordPress.com Stats – Theo dõi các trang hoặc các bài viết được xem. Cần phải có API key của WordPress.
+
+	WP Tiger Administration – Sử dụng sức mạnh của CSS2 để thay đổi lại giao diện khu vực Admin của WordPress.
+
+	Admin Drop Down Menu – Bỏ việc phải click đúp vào các menu để xuất hiện các menu con trong đó. Chỉ cần di chuột qua menu là menu con sẽ tự động xuất hiện.
+
+	InstantUpgrade – Giúp bạn nâng cấp WordPress một cách đơn giản, an toàn và tự động với chỉ một cú click chuột.
+
+	7. Các Plugin giúp đặt quảng cáo trên blog WordPress
+
+	Ad Rotator – Tự động luân chuyển các quảng cáo xuất hiện một cách ngẫu nhiên theo từng bài viết.
+
+	AdSense-Deluxe – Là một plugin cung cấp các tính năng cao cấp cho việc quản lý việc chèn quảng cáo vào bài viết.
+
+	Buy Me a Beer – Cho phép người đọc quyên góp tiền cho bạn thông qua PayPal.
+
+	WordPress BankRoll – Giúp các nhà quảng cáo bỏ qua người trung gian để trực tiếp mua quảng cáo trên blog của bạn.
+
+	8. Các Plugin giúp dịch thuật blog của bạn ra các ngôn ngữ khác nhau
+
+	Global Translator – Giúp dịch blog của bạn sang nhiều ngôn ngữ khác theo cách rất thân thiện với các bộ máy tìm kiếm.
+
+	Angsuman’s Translator Plugin Pro – Cung cấp một công cụ dịch thuật tự động cho blog của bạn ra hơn 13 ngôn ngữ khác. Bạn phải chi $30 để có plugin này.
+
+	9. Các Plugin giúp tăng cường tính năng RSS feed của WordPress
+
+	Feedburner Feedsmith – Chuyển tất cả traffic từ feed sang Feedburner.
+
+	Simple Feed Copyright – Thêm một dòng copyright vào feed của WordPress.
+
+	Full Text Feed – Bảo vệ không cho WordPress phiên bản 2.1x không thêm liên kết vào feed trên blog của bạn.
+
+	Add Related Posts to Your Feed – Thêm một danh sách các bài viết có liên quan vào feed của bạn. Plugin này yêu cầu phải có UTW hoặc Related post plugin cài đặt trước và đang hoạt động.
+
+	RSS Signature – Cho phép thêm vào một dòng chữ kí hoặc copywright vào RSS feeds.
+
+	8. Các Plugin giúp tăng tính năng ngẫu nhiên cho WordPress
+
+	Democracy – Thêm chức năng bình chọn đánh giá sử dụng công nghệ AJAX vào blog WordPress của bạn.
+
+	Flickr RSS – Cho phép dễ dàng hiển thị các bức ảnh ở Flickr trên blog của bạn.
+
+	10. Plugin làm website bán hàng trên WordPress
+
+	WooCommerce – Plugin tạo trang bán hàng 
+
+	Từ đầu năm 2012 trở lại đây, plugin này thật sự đang dần trở nên phổ biến và được nhiều người tin dùng vì nó bao gồm tất cả các chức năng của một trang bán hàng chuyên nghiệp cần có nhưng hoàn toàn miễn phí. Không chỉ đa dạng về chức năng, nó còn có rất nhiều themes hỗ trợ do WooThemes thiết kế dành riêng cho WooCommerce, bao gồm miễn phí và trả phí. Và quan trọng nhất người dùng vẫn có thể cài đặt thêm các thành phần mở rộng thông qua thư viện extensions của nó.
+
+	Jigoshop – Plugin tốt nhất để tạo trang bán hàng trực tuyến trong WordPress
+
+	Cũng tương tự như WP-Ecommerce, JogoShop hỗ trợ đầy đủ những tính năng của một trang bán hàng cần và được xem là một đối thủ khá nặng ký của WP-Ecommerce. Tuy nhiên lợi thế mà JigoShop đang có là hỗ trợ cung cấp 1 số ứng dụng mở rộng miễn phí và trả phí, ngoài ra JigoShop cũng có một thư viện theme dành riêng cho trang bán hàng nhưng rất tiếc không có cái nào miễn phí cả :D. Nhưng nếu bạn chịu đầu tư thì số tiền để sỡ hữu một theme của JigoShop cũng thật sự đáng đồng tiền bát gạo.
+
+	Thêm một tính năng đặc trưng nữa là JigoShop hỗ trợ đa ngôn ngữ, bạn có thể tùy chỉnh dễ dàng trong trang quản lý. Vả lại, JigoShop cũng hỗ trợ nhiều cổng thanh toán hơn, bao gồm PayPal, Moneybooker, FlexWin và 3 cổng thanh toán tùy chỉnh. Ngoài ra, phần quản lý đơn đặt hàng của JigoShop cũng được tách ra riêng biệt thành một menu riêng để bạn dễ làm việc hơn.
+
+	Exchange – Plugin chuyên bán các sản phẩm số
+
+	Exchange là một plugin mới ra đời năm 2013
+	Nếu bạn đang cần làm một trang bán ebook hay các sản phẩm số mà người dùng có thể tải về sau khi thanh toán thì mình nghĩ bạn không nên bỏ qua plugin Exchange của iThemes phát hành miễn phí. Với plugin này bạn có thể dễ dàng làm một shop bán sản phẩm số ngay lập tức mà không cần phải mất quá nhiều thời gian.
+
+	Tuy là dễ sử dụng nhưng sức mạnh của nó không hề kém đâu nhé. Ngoài ra nếu bạn cần nhiều chức năng hơn thì có thể sử dụng bản Pro của nó với chi phí là $150.
+
+	Eshop – Là một plugin thương mại điện tử khá lâu đời và luôn được nhiều sự chú ý khiến nó trở thành một trong những plugin tốt nhất để tạo trang bán hàng trực tuyến.
+	Những tính năng thì không có gì khác với 2 plugin ở trên nên mình cũng không biết giới thiệu gì thêm ngoài 1 câu “nên sử dụng eShop trước Jigo và Wp-Ecommerce”.
+
+	WordPress Simple Paypal Shopping Cart – Nếu như bạn chỉ đặc biệt chú ý đến phương thức thanh toán là PayPal và cần một plugin đơn giản để sử dụng thì đây là sự lựa chọn của bạn.
+
+	TheCartPress eCommerce Shopping Cart – Nếu bạn vẫn chưa hài lòng với 4 plugin trên vì hơi ít tính năng thì đây là một gợi ý cho bạn.
+
+	The Cartpress hỗ trợ khá nhiều tính năng đặc trưng của một trang bán hàng, bao gồm cả những công cụ trợ giúp trong việc marketing sản phẩm. Hơn nữa, nếu bạn chưa có kinh nghiệm quản lý website thương mại điện tử thì sau khi cài đặt, sẽ có phần First Time Setup giúp bạn dễ dàng tùy chỉnh dựa theo những chỉ dẫn và gợi ý của plugin.
+
+	Làm sao để tải các plugin?
+
+	Ở trên tôi mới chỉ liệt kê tên các plugin wordpress mà không cho link download. Để tải được các plugin kia, bạn chỉ cần search trên Google với tên plugin được in đậm trong danh sách trên hoặc các bạn vào trang wordpress.org để tìm kiếm.
