@@ -1,4 +1,9 @@
-﻿tooltip
+﻿bài viết hay
+	http://www.ngoctu.net/wordpress/plugins/
+
+
+
+tooltip
 	WP Lightbox 2:	tooltip ảnh
 
 Login
@@ -45,7 +50,8 @@ phân trang
 khác
 	http://blog.vuikhoe.net/web/wordpress/plugin-web/cac-plugin-can-cho-wordpress/
 	
-	
+seo
+		WordPress SEO by Yoast		- hỗ trợ seo
 	
 	
 	
